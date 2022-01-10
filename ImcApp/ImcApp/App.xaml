@@ -3,6 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ImcApp.App">
     <Application.Resources>
-
+        <ResourceDictionary Source="Resources/resources.xaml"/>
     </Application.Resources>
 </Application>
